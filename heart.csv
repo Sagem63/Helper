@@ -1,4 +1,4 @@
-age;sex;chest pain type (4 values);resting blood pressure;serum cholesterol in mg/dl;fasting blood sugar > 120 mg/dl;resting electrocardiographic results (values 0,1,2);maximum heart rate achieved;exercise induced angina;oldpeakST;the slope of the peak exercise ST segment;number of major vessels;thal
+age;sex;chest pain type (4 values);resting blood pressure;serum cholesterol in mg/dl;fasting blood sugar > 120 mg/dl;resting electrocardiographic results (values 0,1,2);maximum heart rate achieved;exercise induced angina;oldpeakST;the slope of the peak exercise ST segment;number of major vessels;thal;heart desease;
 70.0;1.0;4.0;130.0;322.0;0.0;2.0;109.0;0.0;2.4;2.0;3.0;3.0;2
 67.0;0.0;3.0;115.0;564.0;0.0;2.0;160.0;0.0;1.6;2.0;0.0;7.0;1
 57.0;1.0;2.0;124.0;261.0;0.0;0.0;141.0;0.0;0.3;1.0;0.0;7.0;2
