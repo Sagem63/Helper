@@ -1,0 +1,14 @@
+Recently, neutrosophic sets are found to be more general and useful to express
+incomplete, indeterminate and inconsistent information. The purpose of this paper is to introduce
+new aggregation operators based on logarithmic operations and to develop a multi-criteria
+decision-making approach to study the interaction between the input argument under the single
+valued neutrosophic (SVN) environment. The main advantage of the proposed operator is that it can
+deal with the situations of the positive interaction, negative interaction or non-interaction among the
+criteria, during decision-making process. In this paper, we also defined some logarithmic operational
+rules on SVN sets, then we propose the single valued neutrosophic hybrid aggregation operators as a
+tool for multi-criteria decision-making (MCDM) under the neutrosophic environment and discussd
+some properties. Finally, the detailed decision-making steps for the single valued neutrosophic
+MCDM problems were developed, and a practical case was given to check the created approach and
+to illustrate its validity and superiority. Besides this, a systematic comparison analysis with other
+existent methods is conducted to reveal the advantages of our proposed method. Results indicate that
+the proposed method is suitable and effective for decision process to evaluate their best alternative.
